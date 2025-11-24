@@ -20,9 +20,9 @@ LibraryManagement/
 │
 ├── library_management.py  
 ├── README.md  
-├── Report.pdf  
-├── /screenshots  
-└── /recordings  
+├── report.pdf  
+├── /screenshot  
+└── /recording
 
 ## ✍ Author
 (RAJ CHOUDHARY)  
